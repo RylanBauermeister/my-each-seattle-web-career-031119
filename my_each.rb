@@ -9,6 +9,6 @@ def my_each(array)
 end
 
 my_each([1,2,3]) do |num|
-  puts "#{num+1}"
+  puts "#{num + 1}"
 end
   
